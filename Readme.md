@@ -7,6 +7,12 @@ Useful for previewing print layout and for reviewing end-to-end test print scree
 
 Note if you are developing a print styling your browser will likely also support print media emulation.
 
+# Example
+
+![Example showing print CSS simulation](https://github.com/RRMoelker/print-css-toggle-example/raw/master/print-css-toggle-example.gif)
+
+See https://github.com/RRMoelker/print-css-toggle-example
+
 # Install
 
 Currently the package is not on npm, so install using remote URL or `npm install` cloned directory.
